@@ -1,2 +1,3 @@
 # DC
-My personal repository
+## My personal repository
+### Currently learning how to use GitHub
